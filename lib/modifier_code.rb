@@ -1,6 +1,7 @@
 require_relative './class_extensions/float'
 require_relative './class_extensions/string'
 require_relative './constant'
+require_relative './combiner'
 class ModifierCode
 
   include Constant

@@ -1,4 +1,6 @@
 require_relative './constant'
+require 'csv'
+require 'date'
 class CSVManager
 
   include Constant
