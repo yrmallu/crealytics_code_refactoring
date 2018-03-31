@@ -1,4 +1,4 @@
-Functionality Overview(after refactoring):
+<h4>Functionality Overview(after refactoring):</h4>
 
 The project consists of following main classes: 
 
@@ -18,10 +18,11 @@ The project consists of following main classes:
 
      	
 
-Refactoring Approach:
-
-Modifier class was Modularized into different modules/classes
-Created new class related to CSV operations (i.e CSVManager)
-Complex methods are broken into small methods according to coding standards of Ruby
-Created application level constant file which can manage easily in future
-Created different files to extend core class functionalities (Float, String)
+<h4>Refactoring Approach:</h4>
+<ul>
+<li> Modifier class was Modularized into different modules/classes</li>
+<li> Created new class related to CSV operations (i.e CSVManager)</li>
+<li> Complex methods are broken into small methods according to coding standards of Ruby</li>
+<li> Created application level constant file which can manage easily in future</li>
+<li> Created different files to extend core class functionalities (Float, String)</li>
+</ul>  
